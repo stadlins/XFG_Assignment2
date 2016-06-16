@@ -1,0 +1,17 @@
+Name of QuantLet:  XFG_Copula
+
+Description:       Estimates several copulae. 
+
+Keywords:          financial, portfolio, asset, time-series, copula, kendall's tau
+
+Author:            Sophie Stadlinger
+
+Submitted:         2016/06/16
+
+Datafile:          assignmet2data.xlsx
+
+Input:  	   Historical time series of different assets and the company's market capitalization
+
+Output:  	   Gumbel, Clayton and t-copula.
+
+
